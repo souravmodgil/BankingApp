@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Canada Bank</string>
+    <string name="text_accounts">All Accounts</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_transfer">Enter Amount</string>
+    <string name="hint_bill_amount">Bill Amount</string>
+    <string name="account_name">Account number</string>
+    <string name="balance">Balance</string>
+    <string name="text_login">Login</string>
+    <string name="pay_bill">Pay Utility  Bill</string>
+    <string name="transfer">Money transfer:</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="error_message_Transfer">Amount can not be empty</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="text_hello">Hello,</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="country_prompt">Choose Bill</string>
+    <string name="accout_prompt">Choose Account Number</string>
+
+
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Home</item>
+        <item>Pay Bill</item>
+        <item>Money Transfer</item>
+    </string-array>
+</resources>
